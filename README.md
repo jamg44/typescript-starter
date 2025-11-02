@@ -19,7 +19,7 @@ This starter kit helps you:
 
 - 📁 Well-organized folders: Files grouped by feature so you can find things easily
 - 💨 Fast development: Quick code running with `tsx` and error checking with `tsc`
-- 🌐 Latest Node.js: Uses the newest stable Node.js version from `.tool-versions`
+- 🌐 Latest Node.js: Uses the newest stable Node.js version from `.nvmrc`
 - 🔧 Safe settings: Environment settings checked with Zod to prevent errors
 - 🔗 Short import paths: Clean code with easy imports using path shortcuts
 - 🔄 Auto-updates: Keeps dependencies up-to-date with Renovate
