@@ -1,9 +1,9 @@
 {
-	"name": "node-typescript-starter",
+	"name": "typescript-starter",
 	"version": "1.0.0",
-	"description": "A Node.js TypeScript starter project",
+	"description": "A TypeScript starter project",
 	"author": "jamg44",
-	"repository": "jamg44/node-typescript-starter",
+	"repository": "jamg44/typescript-starter",
 	"license": "MIT",
 	"main": "index.ts",
 	"private": true,

@@ -35,11 +35,13 @@ This starter kit helps you:
 
 #### Step 1: 🚀 Initial Setup
 
-- Clone the repository: `git clone https://github.com/jamg44/node-typescript-starter.git`
-- Navigate: `cd node-typescript-starter`
-- Install dependencies: `pnpm install`
-- Remove .git folder and run
+To create an app, follow these steps:
+
 ```sh
+npx degit jamg44/typescript-starter my-app
+cd my-app
+pnpm install
+# Optional, setup your git repo:
 git init && git add . && git commit -m 'feat: initial commit'
 ```
 
